@@ -24,44 +24,34 @@ fn get_valid_input() -> i32 {
         }
     }
     /*
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
-    a
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    For some reason github does not recognise this as Rust code without this
     */
 }
